@@ -1,5 +1,5 @@
 # Portafolio
-<h1 align="center">Hi 👋, me llamo Erick Geovany Media </h1>
+<h1 align="center">Hi 👋, me llamo Erick Geovany Medina </h1>
 <h3 align="center">Soy apasionado para analizar datos </h3>
 
 - 🔭Estoy trabajando en Análisis de ingresos para la toma de decisión
